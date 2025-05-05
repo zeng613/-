@@ -1,0 +1,47 @@
+h1{
+	text-align: center;
+}
+#logo{
+	text-align: center;
+}
+#logon{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.logon1{
+	text-decoration: none;
+	color: grey;
+}
+.logon1:hover{
+	color: red;
+}
+.logon2{
+	border-radius: 8px;
+	margin-left: 3px;
+	height: 48px;
+	width: 430px;
+	background-color: #706CE8;
+	box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+	color: white;
+	font-size: 20px;
+	
+}
+.logon3{
+	height: 48px;
+	width: 430px;
+	background: url("../img/zh.png")12px center no-repeat; 
+	text-indent: 40px;
+}
+form input{
+    border: 1px solid #D9DDE1;
+}
+.logon4{
+	height: 48px;
+	width: 430px;
+	background: url("../img/mm.png")12px center no-repeat;
+	text-indent: 40px;
+}
+.ok{
+	margin-left: 120px;
+}
